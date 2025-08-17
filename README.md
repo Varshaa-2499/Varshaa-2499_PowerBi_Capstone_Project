@@ -58,7 +58,7 @@ Drillthrough concept:
 
 Kaggle – Amazon Prime Movies and TV Shows Dataset
 
-# This project demonstrates my ability to transform raw datasets into meaningful insights using Power BI and communicate findings through interactive dashboards.
+This project demonstrates my ability to transform raw datasets into meaningful insights using Power BI and communicate findings through interactive dashboards.
 
 
 
