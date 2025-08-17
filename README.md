@@ -1,6 +1,6 @@
 # PowerBi_Capstone_Project
 This repository contains an interactive and insightful dashboard to analyze Amazon Prime video data. The project involved data cleaning, transformation, and visualization to support decision-making for content strategy.
-# Amazon Prime Data Analysis – Power BI Dashboard
+## Amazon Prime Data Analysis – Power BI Dashboard
 🔹Project Overview
 
 This project explores the Amazon Prime Movies & TV Shows dataset using Power BI to uncover trends and insights about the content available on the platform.
