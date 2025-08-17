@@ -26,7 +26,7 @@ The dashboard provides a visual summary of titles, genres, directors, and rating
 
 Power BI – Interactive dashboards & visuals.
 Data Cleaning – Null handling, date formatting, splitting multiple values (Excel/Power Query).
-Visualization Techniques – Slicers, filters, bar/line/stacked charts, maps.
+Visualization Techniques – donut,filters,bar/line/stacked charts, map.
 
 🔹 Insights Gained
 
