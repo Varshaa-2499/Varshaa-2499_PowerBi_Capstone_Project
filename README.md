@@ -39,12 +39,15 @@ Rating distribution shows a focus on family-friendly and young adult audiences.
 🔹 How to Use
 
 Download the .pbix file from this repository.
+
 Open in Power BI Desktop.
+
 Explore the interactive dashboard with available filters.
 
 🔹 Files in this Repo
 
 AmazonPrimeDashboard.pbix → Power BI dashboard file.
+
 README.md → Project documentation.
 
 🔹 Preview
