@@ -51,15 +51,19 @@ AmazonPrimeDashboard.pbix → Power BI dashboard file.
 README.md → Project documentation.
 
 🔹 Preview
+
  <img width="1301" height="732" alt="image" src="https://github.com/user-attachments/assets/a4a2d24c-ec0e-4bce-9d96-94d31febbdbf" />
+ 
 
 Drillthrough concept: 
 
 <img width="1352" height="795" alt="image" src="https://github.com/user-attachments/assets/26de407e-9747-46e7-b87d-b093440210c2" />
 
+
 🔹 Dataset Source
 
 Kaggle – Amazon Prime Movies and TV Shows Dataset
+
 
 This project demonstrates my ability to transform raw datasets into meaningful insights using Power BI and communicate findings through interactive dashboards.
 
